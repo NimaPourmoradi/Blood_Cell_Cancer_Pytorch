@@ -148,7 +148,7 @@ sns.palplot(colors_dark)
 
 
     
-![png](output_15_0.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_15_0.png)
     
 
 
@@ -334,7 +334,7 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_31_0.png)
     
 
 
@@ -374,25 +374,25 @@ for class_name in classes :
 
 
     
-![png](output_34_0.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_34_0.png)
     
 
 
 
     
-![png](output_34_1.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_34_1.png)
     
 
 
 
     
-![png](output_34_2.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_34_2.png)
     
 
 
 
     
-![png](output_34_3.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_34_3.png)
     
 
 
@@ -521,7 +521,7 @@ for filter in filters :
 
 
     
-![png](output_49_0.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_49_0.png)
     
 
 
@@ -590,7 +590,7 @@ for noise in noises :
 
 
     
-![png](output_55_0.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_55_0.png)
     
 
 
@@ -656,7 +656,7 @@ plt.show()
 
 
     
-![png](output_61_0.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_61_0.png)
     
 
 
@@ -1878,7 +1878,7 @@ plt.show()
 
 
     
-![png](output_102_0.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_102_0.png)
     
 
 
@@ -1982,7 +1982,7 @@ plt.show()
 
 
     
-![png](output_109_0.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_109_0.png)
     
 
 
@@ -2047,7 +2047,7 @@ plot_confusion_matrix(y_true, y_pred)
 
 
     
-![png](output_113_1.png)
+![png](Blood_Cell_Cancer_files/Blood_Cell_Cancer_113_1.png)
     
 
 
